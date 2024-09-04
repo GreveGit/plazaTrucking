@@ -1,5 +1,5 @@
 return {
-    QueueTimer = 5, -- every 10 minutes, it will generate a route for all the players in queue who have less than 5 routes stored.
+    QueueTimer = 10, -- every 10 minutes, it will generate a route for all the players in queue who have less than 5 routes stored.
     Payment = {
         min = 1200,
         max = 3400,
